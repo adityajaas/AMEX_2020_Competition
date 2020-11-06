@@ -1,0 +1,61 @@
+Term,Description
+Customer/CM,An individual who holds a XZVEE card
+XZVEE Credit card company,A US based financial institution into credit and charge cards
+Charge cards,Cards where the customer has to pay in full
+Lending/Revolve cards,Credit cards where the customer has the option of partial payment
+Prospects,An individual who doesn’t hold any XZVEE credit card
+Spillover,A XZVEE CM taking another XZVEE card
+Size of Wallet (SOW),External Credit Bureau variables
+External cards,Non XZVEE Credit/Charge cards held by a person
+,
+,
+Variable Name,Description
+cust_max_credit_12m_amt,Maximum amount of single transaction made by customer in past 12 months
+cust_max_remit_12m_amt,Maximum amount of single transaction payment made by customer in past 12 months
+cnsumr_lend_tot_util_ratio,Total credit limit used off the assigned lending limit
+sum_total_line_amt,Total credit limits of all cards with the customer
+cust_id,XVZEE Customer ID
+count_accts,Number of XZVEE accounts of the Customer
+cm_age,Age of the Customer
+flag_cust_fee_paid_6m,Flag if Customer has paid fee on any card in last 6 months
+acq_sub_chn,Channel of acquisition of first the firt card of the customer
+acq_type_grp,Customer type: Existing Customer or prospect
+fee_type_grp,Fe type of the first card of the customer
+Cust_tenure,Total Tenure of the cutomer with XZVEE in months
+min_pay_ind,Flag to indicate if the customer has paid the minimum amount on the card ever in last 6 billing cycles
+paid_in_full_ind,Flag to indicate if the customer has paid the total amount on any of the cards ever in last 6 billing cycles
+referrals,Number of previous successful referrals made by customer in previous 5 years
+spillover,Number of spillovers from the successful referrals
+self_accts,No of cards when the customer self referred
+Customer Low Quality indicator,Flag to identify if the customer is a low quality acquisition
+cnsumr_chrg_actv_cust_cnt,Number of active charge card account of the customer
+cnsumr_chrg_avg_credit_12m_amt,Average monthly spend on Charge cards 
+cnsumr_lend_actv_cust_cnt,Number of active lending card account of the customer
+pre6m_cust_myca_active,Number of times the Customer logged into his online XZVEE account in last 6 months
+pre6m_cust_mob_logins,Number of times the Customer logged into his online XZVEE account in last 6 months through mobile
+direct_debit_ind,Flag to indicate if the customer has set up auto payment
+cbr_3_score,External Bureau score of the customer
+sow_revol_avg_paydown_pct,Size of Wallet: Total amount paid over revolving balance on external cards
+sow_tot_annual_ext_pmt_amt,Size of Wallet: Average amount paid on external cards annually
+sow_tot_revol_bal_amt,Size of Wallet: Total revolve balance on external cards
+sow_tot_revol_cnt,Size of Wallet: Total external lending cards count
+sow_tot_trans_bal_amt,Size of Wallet: Total balance amount on external cards
+sow_tot_trans_cnt,Size of Wallet: Total external charge cards count
+pre6m_total_mc_trs,Total profit made by XZVEE on the customer in last 6 months
+cdss_most_rcnt_prob,Internal XZVEE risk score generated for the customer
+flag_top_ed_spender,Flag to identify if the Customer is an everyday spender
+pre6m_cust_spend,Total Spend  in last 6 months
+pre6m_cust_roc_cnt,Total number of transactions in last 6 months
+pre6m_cust_non_disc_amt,Total Non discretionary spend in last 6 months
+pre6m_cust_non_disc_cnt,Total Non discretionary transactions in last 6 months
+pre6m_cust_disc_amt,Total discretionary spend in last 6 months
+pre6m_cust_disc_cnt,Total discretionary transactions in last 6 months
+pre6m_cust_outbound_amt,Total outbound spend in last 6 months
+pre6m_cust_online_amt,Total online spend in last 6 months
+pre6m_cust_online_cnt,Total online transactions in last 6 months
+pre6m_cust_travel_amt,Total travel spend in last 6 months
+pre6m_cust_travel_cnt,Total travel transactions in last 6 months
+pre6m_cust_retail_amt,Total retail spend in last 6 months
+pre6m_cust_retail_cnt,Total retail transactions in last 6 months
+pre6m_spend_active_ind,Flag to indicate if the customer has spent on the cards in last 6 months
+highly_utilized_ind,CM has spent >80% of the card limit in past 6 months om any of his cards
