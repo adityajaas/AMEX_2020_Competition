@@ -1,6 +1,6 @@
 ## AMEX_2020_Competition
 
-Data downloaded from the Competition portal. Uploaded in the repository\
+Data downloaded from the Competition portal. Uploaded in the repository
 # **PROBLEM STATEMENT**
 XZVEE is a multinational financial services company and operates one of the largest credit card businesses in the United States. It uses multiple channels of acquiring new customers with a higher inclination towards digital channels.
 
@@ -33,15 +33,15 @@ You have to provide a profitable flag against each Customer ID: a value of 0 or 
 **Data for Analysis**\
 Following files can be downloaded for your analysis.
 
-1. Training_dataset.csv: This dataset contains all the variables along with the profitable flag for the customers [Find it here](../main/Training_Data.csv)
-2. Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual profitable flag is not present in this data.[Find it here](../main/Evaluation_Data.csv)
-3. Data_Dictionary.csv: This sheet will give you the description of all the variables contained in the 2 datasets above.  [Find it here](../blob/master/Data_Dictionary.csv)
-\
+1. Training_dataset.csv: This dataset contains all the variables along with the profitable flag for the customers [ Find it here](../main/Training_Data.csv)
+2. Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual profitable flag is not present in this data.[ Find it here](../main/Evaluation_Data.csv)
+3. Data_Dictionary.csv: This sheet will give you the description of all the variables contained in the 2 datasets above.  [ Find it here](../main/Data_Dictionary.csv)
+
 # **Three types of classification approaches were considered:**
 1)  Gradient Boosting classifier with oversampling
 2)  Random Forest classifier with oversampling
 3)  ANN based binary classifier with oversampling
 
-Find the approach in the .ipynb file [here](../main)\
+Find the approach in the .ipynb file [here](https://github.com/adityajaas/AMEX_2020_Competition)\
 Find a sample submission file [here](../main/Sample_Submission.csv)\
 Final submission made to the competition can be found [here](../main/submission_xgb.csv)
