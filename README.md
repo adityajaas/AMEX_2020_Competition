@@ -33,15 +33,15 @@ You have to provide a profitable flag against each Customer ID: a value of 0 or 
 **Data for Analysis**\
 Following files can be downloaded for your analysis.
 
-1. Training_dataset.csv: This dataset contains all the variables along with the profitable flag for the customers [Find it here](../Training_Data.csv)
-2. Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual profitable flag is not present in this data.[Find it here](../Evaluation_Data.csv)
-3. Data_Dictionary.csv: This sheet will give you the description of all the variables contained in the 2 datasets above. [Find it here](../Data_Dictionary.csv)
+1. Training_dataset.csv: This dataset contains all the variables along with the profitable flag for the customers [Find it here](../blob/master/Training_Data.csv)
+2. Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual profitable flag is not present in this data.[Find it here](../blob/master/Evaluation_Data.csv)
+3. Data_Dictionary.csv: This sheet will give you the description of all the variables contained in the 2 datasets above. [Find it here](../blob/master/Data_Dictionary.csv)
 \
 # **Three types of classification approaches were considered:**
 1)  Gradient Boosting classifier with oversampling
 2)  Random Forest classifier with oversampling
 3)  ANN based binary classifier with oversampling
 
-Find the approach in the .ipynb file [here](..)
-Find a sample submission file [here](../Sample_Submission.csv)
-Final submission made to the competition can be found [here](../submission_xgb.csv)
+Find the approach in the .ipynb file [here](../blob/master/)\
+Find a sample submission file [here](../blob/master/Sample_Submission.csv)\
+Final submission made to the competition can be found [here](../blob/master/submission_xgb.csv)
