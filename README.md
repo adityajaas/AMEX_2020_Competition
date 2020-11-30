@@ -1,6 +1,6 @@
 ## AMEX_2020_Competition
 
-Data downloaded from the Competition portal. Uploaded in the repository
+Data downloaded from the Competition portal. Data is proprietary content of American Express. Shared for educational purpose only
 # **PROBLEM STATEMENT**
 XZVEE is a multinational financial services company and operates one of the largest credit card businesses in the United States. It uses multiple channels of acquiring new customers with a higher inclination towards digital channels.
 
