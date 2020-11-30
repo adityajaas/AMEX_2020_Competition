@@ -42,6 +42,6 @@ Following files can be downloaded for your analysis.
 2)  Random Forest classifier with oversampling
 3)  ANN based binary classifier with oversampling
 
-Find the approach in the .ipynb file [here](https://github.com/adityajaas/AMEX_2020_Analyze_This_competition)\
+Find the approach in the .ipynb file [here](../main/Amex_2020_Analyze_This_competition.ipynb)\
 Find a sample submission file [here](../main/Sample_Submission.csv)\
 Final submission made to the competition can be found [here](../main/submission_xgb.csv)
